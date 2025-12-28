@@ -1,0 +1,5 @@
+{
+  "name": "肺癌智能辅助预测系统",
+  "description": "基于机器学习的肺癌风险评估、患病概率预测及生存期预后分析专业系统。",
+  "requestFramePermissions": []
+}
